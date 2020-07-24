@@ -3,6 +3,7 @@
 **Wang Cong**, Master Student, College of Mechanical and Electronic Engineering, Nanjing Forestry University
 
 E-mail: c_840305481@163.com.
+
 Address：江苏省南京市玄武区龙蟠路159号南京林业大学
 
 <img src="87E3A1DBFC99DD3D88645378E9D897E5.png" width="20%">
@@ -17,6 +18,7 @@ Computer Vision, Deep Learning, Photovoltaic Analysis.
 - CN201920154780.3 一种可拆卸拓展的懒人桌
 - CN201910087104.3 基于深度相机的黑果枸杞分选装置及识别与分类算法
 - CN201920446020.X 一种基于激光散斑的苗木根活力测量装置
+
 ### For CV in Papers
 ```text
 Wang Cong was born in Yinchuan Ningxia, China in 1996.
