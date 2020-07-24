@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Wang Cong's Personal Homepage
 
-You can use the [editor on GitHub](https://github.com/WANG-CONG-AI/wang-cong-ai.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**Wang Cong**, Master Student, College of Mechanical and Electronic Engineering, Nanjing Forestry University
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+E-mail: c_840305481@163.com; .
 
-### Markdown
+<img src="87E3A1DBFC99DD3D88645378E9D897E5.png" width="20%">
+### Research Interests
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Computer Vision, Deep Learning, Pattern Recognition, PV analysis.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+### For CV in Papers
+```text
+Wang Cong was born in Yinchuan, Ningxia, China in 1996. 
+He graduated from Nanjing Forestry University in 2018 and obtained a bachelor's degree in engineering. 
+He is currently pursuing a master's degree at Nanjing Forestry University. 
+His research interests include the application of intelligent algorithms in industry, image data processing and PV analysis.
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WANG-CONG-AI/wang-cong-ai.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
