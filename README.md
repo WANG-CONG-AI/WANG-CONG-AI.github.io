@@ -15,7 +15,7 @@ Computer Vision, Deep Learning, Photovoltaic Analysis.
 - CN201920154795.X 一种基于倒钩凹槽履带的黑枸杞分选机
 - CN201920154780.3 一种可拆卸拓展的懒人桌
 - CN201910087104.3 基于深度相机的黑果枸杞分选装置及识别与分类算法
-- CN201920446020.X 一种基于激光散斑的苗木根活力测量装置
+- CN201920446020.X 一种基于激光散斑的苗木根活力测量装
 ### For CV in Papers
 ```text
 Wang Cong was born in Yinchuan Ningxia, China in 1996.
